@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Drowsy Driver Monitoring and Detection --
  
 #### Using tkinter and OpenCV --
@@ -17,3 +18,7 @@
     
 Still Working on the accuracy part 🤓.
 
+=======
+# drowsy_driver_monitoring
+A Python project using OpenCV to detect drowsiness in drivers using eye aspect ratio.
+>>>>>>> 7532332b9c2caa5b1e03b218606e47bd2be89634
